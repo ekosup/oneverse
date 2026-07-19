@@ -99,7 +99,7 @@ function renderHome(app: HTMLElement): void {
   app.innerHTML = `
     <div class="container">
       <nav class="nav">
-        <a href="#home" class="nav-brand">Daily Quran</a>
+        <a href="#home" class="nav-brand">OneVerse</a>
         <a href="#topics" class="nav-link">${Icons.topics} <span>Topik</span></a>
       </nav>
       <header class="header">

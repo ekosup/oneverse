@@ -1,6 +1,6 @@
 {
-  "name": "Daily Quran",
-  "short_name": "Daily Quran",
+  "name": "OneVerse",
+  "short_name": "OneVerse",
   "description": "Satu ayat Al-Qur'an setiap hari — pengalaman membaca yang tenang dan indah.",
   "start_url": "/oneverse/",
   "scope": "/oneverse/",
