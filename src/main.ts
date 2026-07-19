@@ -20,13 +20,21 @@ let topics: Topic[] = [];
 
 // ─── Load data ───
 async function load(): Promise<void> {
-  const [v, t] = await Promise.all([
-    fetch("./data/verses.json").then(r => r.json()),
-    fetch("./data/topics.json").then(r => r.json()),
-  ]);
-  verses = v;
-  topics = t;
-  route();
+  try {
+    const [v, t] = await Promise.all([
+      fetch("./data/verses.json").then(r => { if (!r.ok) throw new Error(`verses: ${r.status}`); return r.json(); }),
+      fetch("./data/topics.json").then(r => { if (!r.ok) throw new Error(`topics: ${r.status}`); return r.json(); }),
+    ]);
+    verses = v;
+    topics = t;
+    route();
+  } catch (e) {
+    document.getElementById("app")!.innerHTML = `
+      <div class="container" style="text-align:center;padding-top:4rem;">
+        <p style="font-size:1.5rem;color:#8B7E6E;">Gagal memuat data 😔</p>
+        <p style="color:#B0A090;margin-top:0.5rem;">Periksa koneksi dan muat ulang.</p>
+      </div>`;
+  }
 }
 
 // ─── Router ───
