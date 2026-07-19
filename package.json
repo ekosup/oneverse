@@ -1,0 +1,16 @@
+{
+  "name": "oneverse",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "generate": "npx tsx scripts/generate-topics.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.7",
+    "vite": "^6.0"
+  }
+}

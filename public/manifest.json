@@ -1,0 +1,23 @@
+{
+  "name": "Daily Quran",
+  "short_name": "Daily Quran",
+  "description": "Satu ayat Al-Qur'an setiap hari — pengalaman membaca yang tenang dan indah.",
+  "start_url": "/oneverse/",
+  "scope": "/oneverse/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FBF7F0",
+  "theme_color": "#FBF7F0",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "faith",
+    "name": "Faith",
+    "nameId": "Keimanan",
+    "count": 22
+  },
+  {
+    "slug": "patience",
+    "name": "Patience",
+    "nameId": "Kesabaran",
+    "count": 11
+  },
+  {
+    "slug": "mercy",
+    "name": "Mercy",
+    "nameId": "Rahmat",
+    "count": 9
+  },
+  {
+    "slug": "success",
+    "name": "Success",
+    "nameId": "Kesuksesan",
+    "count": 9
+  },
+  {
+    "slug": "peace",
+    "name": "Peace",
+    "nameId": "Kedamaian",
+    "count": 8
+  },
+  {
+    "slug": "hope",
+    "name": "Hope",
+    "nameId": "Harapan",
+    "count": 7
+  },
+  {
+    "slug": "hardship",
+    "name": "Hardship",
+    "nameId": "Kesulitan",
+    "count": 7
+  },
+  {
+    "slug": "prayer",
+    "name": "Prayer",
+    "nameId": "Doa",
+    "count": 6
+  },
+  {
+    "slug": "worship",
+    "name": "Worship",
+    "nameId": "Ibadah",
+    "count": 6
+  },
+  {
+    "slug": "strength",
+    "name": "Strength",
+    "nameId": "Kekuatan",
+    "count": 6
+  },
+  {
+    "slug": "forgiveness",
+    "name": "Forgiveness",
+    "nameId": "Ampunan",
+    "count": 6
+  },
+  {
+    "slug": "humility",
+    "name": "Humility",
+    "nameId": "Kerendahan Hati",
+    "count": 6
+  },
+  {
+    "slug": "charity",
+    "name": "Charity",
+    "nameId": "Sedekah",
+    "count": 6
+  },
+  {
+    "slug": "family",
+    "name": "Family",
+    "nameId": "Keluarga",
+    "count": 6
+  },
+  {
+    "slug": "hereafter",
+    "name": "Hereafter",
+    "nameId": "Akhirat",
+    "count": 5
+  },
+  {
+    "slug": "guidance",
+    "name": "Guidance",
+    "nameId": "Hidayah",
+    "count": 4
+  },
+  {
+    "slug": "sustenance",
+    "name": "Sustenance",
+    "nameId": "Rezeki",
+    "count": 4
+  },
+  {
+    "slug": "love",
+    "name": "Love",
+    "nameId": "Cinta",
+    "count": 3
+  },
+  {
+    "slug": "gratitude",
+    "name": "Gratitude",
+    "nameId": "Syukur",
+    "count": 3
+  },
+  {
+    "slug": "honesty",
+    "name": "Honesty",
+    "nameId": "Kejujuran",
+    "count": 3
+  },
+  {
+    "slug": "justice",
+    "name": "Justice",
+    "nameId": "Keadilan",
+    "count": 3
+  },
+  {
+    "slug": "knowledge",
+    "name": "Knowledge",
+    "nameId": "Ilmu",
+    "count": 2
+  },
+  {
+    "slug": "repentance",
+    "name": "Repentance",
+    "nameId": "Taubat",
+    "count": 2
+  },
+  {
+    "slug": "paradise",
+    "name": "Paradise",
+    "nameId": "Surga",
+    "count": 2
+  },
+  {
+    "slug": "leadership",
+    "name": "Leadership",
+    "nameId": "Kepemimpinan",
+    "count": 2
+  },
+  {
+    "slug": "parents",
+    "name": "Parents",
+    "nameId": "Orang Tua",
+    "count": 2
+  },
+  {
+    "slug": "time",
+    "name": "Time",
+    "nameId": "Waktu",
+    "count": 1
+  },
+  {
+    "slug": "marriage",
+    "name": "Marriage",
+    "nameId": "Pernikahan",
+    "count": 1
+  },
+  {
+    "slug": "death",
+    "name": "Death",
+    "nameId": "Kematian",
+    "count": 1
+  },
+  {
+    "slug": "hell",
+    "name": "Hell",
+    "nameId": "Neraka",
+    "count": 1
+  },
+  {
+    "slug": "children",
+    "name": "Children",
+    "nameId": "Anak",
+    "count": 1
+  }
+]
